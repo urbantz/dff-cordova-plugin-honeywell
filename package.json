@@ -1,0 +1,19 @@
+{
+  "name": "dff-cordova-plugin-honeywell",
+  "version": "1.0.0",
+  "description": "Cordova plugin vor Honeywell CT50 etc.",
+  "main": "www/honeywell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbantz/dff-cordova-plugin-honeywell.git"
+  },
+  "author": "dff-solutions",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/urbantz/dff-cordova-plugin-honeywell/issues"
+  },
+  "homepage": "https://github.com/urbantz/dff-cordova-plugin-honeywell#readme"
+}
